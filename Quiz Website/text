@@ -1,0 +1,34 @@
+Which Is Naveen's favourite food?
+a: "Pizza"
+b: "chiken tandoori masala"
+c: "Watermelon Beetroot Jalebi Salad"
+d: "GeForce RTX Graphics Card 2080Ti"
+correct: "d",
+
+How is naveen?
+a: "Average",
+b: "Sad",
+c: "Confused",
+d: "I dont know",
+correct: "d",
+
+What was the answer to the last question
+a: "What",
+b: "False",
+c: "Option d",
+d: "GeForce RTX Graphics Card 2080Ti",
+correct: "a",
+
+What is the color of the water bottle
+a: "Red",
+b: "Yellow",
+c: "Blue",
+d: "Yellow",
+correct: "c",
+
+What language does naveen know very very well
+a: "Html",
+b: "Css",
+c: "C#",
+d: "English",
+correct: "d",
